@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Things",
-  "accentColor": ""
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "showRibbon": false
 }
