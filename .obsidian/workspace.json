@@ -11,10 +11,24 @@
             "id": "e731a22557b71ea7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -170,6 +184,8 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "429f8136c18477ad",
-  "lastOpenFiles": []
+  "active": "e731a22557b71ea7",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
